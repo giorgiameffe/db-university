@@ -25,3 +25,16 @@ Esportare quindi il diagramma in jpg e caricarlo nella repo.
 
 Cosa consegnare?
 - Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
+
+# Db University - Day Three
+
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
+
+***Query trattate:***
+
+```
+GROUP BY
+INNER JOIN
+```
